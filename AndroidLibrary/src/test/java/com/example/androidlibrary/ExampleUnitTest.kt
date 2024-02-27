@@ -1,4 +1,4 @@
-package com.dds.androidmodfile
+package com.example.androidlibrary
 
 import org.junit.Test
 
