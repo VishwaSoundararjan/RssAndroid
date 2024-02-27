@@ -14,4 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "SampleLibrary"
 include ':app'
-include ':AndroidLibrary'
+include ':androidLibrary'
+
+
