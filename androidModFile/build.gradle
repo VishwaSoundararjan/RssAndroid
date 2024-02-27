@@ -62,8 +62,8 @@ publishing {
     publications {
         maven(MavenPublication) {
             groupId = 'com.github.VishwaSoundararjan'
-            artifactId = 'VishwaSoundararjan'
-            version = "0.0.1"
+            artifactId = 'SampleLibrary'
+            version = "2.0.0"
             pom {
                 description = 'Android library'
             }
